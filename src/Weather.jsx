@@ -63,7 +63,7 @@ const Weather = () => {
             {/* Search Header */}
             <form onSubmit={handleSearch} className="flex gap-4 mb-8">
                 <div className="relative flex-1">
-                    <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400" size={20} />
+                    <Search className="absolute left-4 top-50 translate-y-50-neg text-slate-400" size={20} />
                     <input
                         type="text"
                         className="input-field pl-12"

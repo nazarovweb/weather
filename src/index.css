@@ -222,11 +222,11 @@ body {
   left: 0;
 }
 
-.top-1/2 {
+.top-50 {
   top: 50%;
 }
-  
-.-translate-y-1/2 {
+
+.translate-y-50-neg {
   transform: translateY(-50%);
 }
 
